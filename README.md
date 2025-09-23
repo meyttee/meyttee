@@ -1,37 +1,31 @@
-# 🧨 Mahdi Mohammadi — Front-End Developer
-
-Hi there 👋 I'm Mahdi — a passionate **Front-End Developer** specialized in React, Next.js, and TypeScript.  
-I love building fast, clean, and scalable user interfaces.  
-
----
-
-## 🚀 What I'm working on
-- **Front-End Developer @ Nextera** — building scalable monorepos with NX, real-time ticketing systems, and reusable component libraries.
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mahdi+Mohammadi;FrontEnd+Developer" alt="Typing SVG" />
+</h1>
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, C/C++
-- **Frameworks**: React.js, Next.js, React Native
-- **Styling**: Tailwind CSS, Material UI, Sass, Ant Design, Radix
-- **Tools**: Git, GitHub, NX Monorepo, Storybook, Docker, Figma
-- **Others**: REST, GraphQL, WebSocket, CI/CD, Azure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,html,css,tailwind,materialui,sass,docker,git,github,figma" />
+</p>
 
----
+## 🏆 Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meyttee&theme=onedark&row=1&margin-w=20&margin-h=15" />
+</p>
 
-## 🔭 Featured Projects
-- **Real-time Ticketing System** — WebSocket + REST
-- **React/Next.js SEO Landing Pages** — SSR optimized
-- **React Native Mobile App**
-- **Face Detection App** — Computer Vision + React
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meyttee&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyttee&layout=compact&theme=radical&langs_count=10" height="160" />
+</p>
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyttee&layout=compact&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=meyttee&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=meyttee&theme=radical" height="160" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meyttee&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ## ✉️ Contact
 - **Email**: mahdi.mohmdi.81@gmail.com  
