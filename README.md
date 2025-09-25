@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mahdi+Mohammadi;Front+-+End+Developer" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mahdi+Mohammadi;Front-End+Developer" alt="Typing SVG" />
+</p>
 
 ## 👨‍💻 About Me
 Front End Developer with <b>3+ years</b> of experience building scalable and responsive web applications using <b>React.js, Next.js, and TypeScript</b>. Skilled in creating optimized user interfaces and integrating APIs in professional services teams. self-motivated about clean code, performance optimization, and learning in web and Front-end development.
