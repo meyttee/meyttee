@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mahdi+Mohammadi;FrontEnd+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mahdi+Mohammadi;Front+-+End+Developer" alt="Typing SVG" />
 </h1>
 
 ## 🛠️ Tech Stack
@@ -19,9 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyttee&layout=compact&theme=radical&langs_count=10" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=meyttee&theme=radical" height="160" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meyttee&theme=react-dark&hide_border=true&area=true" />
