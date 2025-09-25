@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mahdi+Mohammadi;Front+-+End+Developer" alt="Typing SVG" />
 </h1>
 
+## 👨‍💻 About Me
+Front End Developer with 3+ years of experience building scalable and responsive web applications using
+React.js, Next.js, and TypeScript. Skilled in creating optimized user interfaces and integrating APIs in professional
+services teams. self-motivated about clean code, performance optimization, and learning in web development
+and Front-end development.
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,html,css,tailwind,materialui,sass,docker,git,github,figma" />
