@@ -3,10 +3,7 @@
 </h1>
 
 ## 👨‍💻 About Me
-Front End Developer with 3+ years of experience building scalable and responsive web applications using
-React.js, Next.js, and TypeScript. Skilled in creating optimized user interfaces and integrating APIs in professional
-services teams. self-motivated about clean code, performance optimization, and learning in web development
-and Front-end development.
+Front End Developer with <b>3+ years</b> of experience building scalable and responsive web applications using <b>React.js, Next.js, and TypeScript</b>. Skilled in creating optimized user interfaces and integrating APIs in professional services teams. self-motivated about clean code, performance optimization, and learning in web and Front-end development.
 
 ## 🛠️ Tech Stack
 <p align="center">
